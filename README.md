@@ -13,7 +13,7 @@ My business elective (big data in business and finance) assignment asked us to d
 This project focuses on the analysis of the Boston Housing dataset using Python, Jupyter Notebook, and various data analysis and machine learning libraries. The dataset contains information on the housing market in Boston, such as the average number of rooms per dwelling, the percentage of lower status of the population, the pupil-teacher ratio by town, and the median value of owner-occupied homes.
 After a lot of research, I decided on the Random Forest Regressor model.
 - I cleaned the Boston housing dataset
-- Made a correlation heat map to better understand the underlying correlations.
+- Made a correlation heat map to better understand the underlying correlations. 
 - After a lot of research, I decided on the Random Forest Regressor model.
 - Took the train data and fit it to a random forest regressor model
     - With some parameter tuning, I improved the model's success rate from 79% to 84%.
